@@ -1,7 +1,7 @@
 <p align="center">
- <a href="https://webman.pro/blog">Front End blogger</a> <img src="/wwwebman.svg" width="15px" />. 
- Full Stack Overflow Front End engineer :grinning:. 
- Copy-paste architect :pig_nose:.
+ <a href="https://webman.pro/blog">Front End blogger</a> <img src="/wwwebman.svg" width="15px" /> 
+ Full Stack Overflow Front End engineer :grinning:
+ Copy-paste architect :pig_nose:
 </p>
 
 <p align="center">
