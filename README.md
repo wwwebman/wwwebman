@@ -1,5 +1,5 @@
 <p align="center">
- [Front End Blogger](https://webman.pro/blog) <img src="/wwwebman.svg" width="15px" />. 
+ <a href="https://webman.pro/blog">Front End blogger</a> <img src="/wwwebman.svg" width="15px" />. 
  Full Stack Overflow Front End engineer :grinning:. 
  Copy-paste architect :pig_nose:.
 </p>
