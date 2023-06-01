@@ -5,7 +5,7 @@
 <p align="center">
 </p>
 
-<h3 align="center">Hi, I'am wwwebman, a frontend addict.</h3>
+<h3 align="center">Hi, I am wwwebman, a frontend addict.</h3>
 <p align="center">
   Welcome to my <a href="https://webman.pro">blog</a>.
 </p>
